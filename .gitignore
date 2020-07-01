@@ -1,0 +1,7 @@
+target/
+logs/
+*.log
+*.tmp
+tmp/
+work/
+lixo*
